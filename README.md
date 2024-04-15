@@ -1,8 +1,10 @@
-# React + Vite
+# A project for free code camp front end libraries certificate
+**technologies used:** 
+- React
+- Redux
+- React-Redux
+- bootstrap
+- html
+- vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/bisky0-0/random-quote/assets/88213094/7fcf6661-4975-485c-87fc-344d15259cb4)
